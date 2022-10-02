@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "quik-store"
+name = "quik-save"
 version = "0.1.0"
